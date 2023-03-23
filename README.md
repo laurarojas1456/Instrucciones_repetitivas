@@ -1,0 +1,2 @@
+# Instrucciones_repetitivas
+instrucciones lineales
